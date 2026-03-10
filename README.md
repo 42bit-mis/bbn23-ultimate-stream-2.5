@@ -35,6 +35,7 @@ software-properties-common	Alternative packages + automatic installation
 Missing ngx_rtmp_conf.h	Automatically generated
 mime.types not found	Complete mime.types file is created
 Configuration test fails	Automatic repair + fallback
+
 🌐 NETWORK & PORT FORWARDING
 
 Automatic Network Analysis
